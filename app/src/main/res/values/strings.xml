@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">BeatSyncX</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="save">Save</string>
+
+
+    <string name="record_empty">No information available</string>
+    <string name="record_empty_tips">In order to view statistics, it\'s necessary to include at least one record.</string>
+    <string name="record_addition">Record Addition</string>
+    <string name="record_add_tips">Please submit your heart rate information.</string>
+    <string name="record_add_max_hint">Max: During exercise</string>
+    <string name="record_add_min_hint">Min: While sleeping</string>
+    <string name="record_add_ave_hint">Ave: While walking</string>
+    <string name="heartbeat_level_1">If you observe a decline in your heart rate, it\'s important to remain composed, as it could be within the typical range for certain individuals. Nonetheless, in the event of any symptoms or uncertainties, we advise consulting a healthcare expert for a thorough assessment.</string>
+    <string name="heartbeat_level_2">An optimal cardiovascular system is marked by a consistent heart rate. Key elements such as physical activity, a well-balanced diet, and effective stress management play a crucial role in its upkeep. Consistent heart rate tracking supports robust cardiac health. Prioritize your overall health and don\'t hesitate to consult with a healthcare professional when necessary.</string>
+    <string name="heartbeat_level_3">To control an elevated heart rate, engage in deep breathing, employ relaxation methods, and limit caffeine intake. Maintain proper hydration and, when necessary, consult a healthcare professional. Make your heart\'s well-being a top priority for a more joyful life.</string>
+    <string name="heartbeat_level_slow">Slow</string>
+    <string name="heartbeat_level_normal">Normal</string>
+    <string name="heartbeat_level_fast">Fast</string>
+    <string name="input_number">0123456789</string>
+
+
+    <string name="article_title">Full article</string>
+
+
+    <string name="article_title_1">The Impact of Diet on Heart Health: What to Eat and What to Avoid</string>
+    <string name="article_content_1">Heart disease is a leading global cause of mortality, and one\'s diet plays a pivotal role in both its development and prevention. This article delves into the significant impact of diet on heart health, highlighting what to incorporate and what to steer clear of.\n\n
+        What to Include in Your Diet\n
+        1. Fruits and Vegetables: These nutritional powerhouses are packed with essential vitamins, minerals, and fiber. Incorporating them into your diet can help lower blood pressure and reduce the risk of heart disease.\n\n
+        2. Whole Grains: Opt for whole grains like brown rice, quinoa, and whole wheat bread. They are rich in fiber, which can help reduce cholesterol levels and minimize the risk of heart disease.\n\n
+        3. Lean Protein: Select lean protein sources, such as fish, poultry, and legumes. These options are low in saturated fat and can significantly reduce the risk of heart disease.\n\n
+        4. Nuts and Seeds: Nuts and seeds are excellent sources of healthy fats, which can help lower cholesterol levels and decrease the risk of heart disease.\n\n
+        5. Healthy Fats: Prioritize healthy fats like olive oil, avocados, and fatty fish. They can contribute to lower cholesterol levels and a reduced risk of heart disease.\n\n
+        What to Eliminate from Your Diet\n
+        1. Saturated and Trans Fats: These types of fats have the potential to elevate cholesterol levels and amplify the risk of heart disease. Therefore, it\'s crucial to steer clear of foods high in saturated and trans fats, such as fried foods, processed snacks, and fatty meats.\n\n
+        2. Sodium: An excessive intake of sodium can lead to elevated blood pressure and heighten the risk of heart disease. It\'s advisable to avoid foods high in sodium, such as processed foods, canned soups, and salty snacks.\n\n
+        3. Added Sugars: An abundance of added sugars can escalate the risk of obesity, diabetes, and heart disease. Consequently, it\'s prudent to shun foods that are laden with added sugars, like sugary drinks, candy, and baked goods.\n\n
+        In Conclusion\n\n
+        A heart-healthy diet revolves around the abundant inclusion of fruits and vegetables, whole grains, lean protein, nuts, seeds, and healthy fats. Equally vital is the avoidance of foods rich in saturated and trans fats, sodium, and added sugars. By implementing these dietary changes, you can significantly reduce your risk of heart disease and enhance your overall well-being.</string>
+    <string name="article_title_2">Sleep and Your Heart: The Connection Between Quality Rest and Cardiovascular Wellness</string>
+    <string name="article_content_2">Sleep is a fundamental component of our daily routine, and it plays a pivotal role in our overall health and well-being. Recent research has revealed a significant link between sleep quality and cardiovascular health. In this article, we will delve into the intricate relationship between sleep and heart health.\n\n
+        Understanding the Significance of Sleep for Heart Health\n\n
+        1. Restfulness and Cardiovascular Risk: A study published in the Journal of the American Heart Association has shed light on the connection between restfulness from sleep and the risk of cardiovascular disease (CVD). This study, conducted over an average of approximately four years, monitored cardiovascular events in middle-aged and older individuals. The findings emphasize that poor sleep quality serves as a notable risk factor for heart disease.\n\n
+        2. Heart Rate, Breathing, and Blood Pressure: During our sleep, our heart rate, breathing, and blood pressure naturally dip below the levels experienced when we are awake. This dip in physiological activity allows the heart to regenerate its energy supply for the upcoming day. Denying the heart the rest it needs during sleep can have adverse effects on its continuous functioning.\n\n
+        3. Link to Unhealthy Habits: Poor sleep quality is often associated with less-healthy lifestyle habits, including suboptimal diets, reduced physical activity, and an increased prevalence of psychological risk factors for heart disease, such as stress. Sleep quality is also intertwined with other threats to cardiovascular health, such as diabetes, high blood pressure, and obesity.\n\n
+        Tips to Enhance Sleep Quality\n\n
+        - Maintain a Consistent Sleep Schedule: Strive to go to bed and wake up at the same times every day, including weekends.\n\n
+        - Create a Relaxing Sleep Environment: Ensure that your bedroom is conducive to sleep by maintaining a cool, quiet, and dark atmosphere. Invest in comfortable bedding and pillows.\n\n
+        - Limit Screen Time: Avoid the use of electronic devices like smartphones, tablets, and computers before bedtime, as the light emitted from screens can disrupt your sleep patterns.\n\n
+        - Avoid Stimulants: Steer clear of caffeine, nicotine, and alcohol in the hours leading up to bedtime, as these substances can interfere with your ability to fall asleep and enjoy restful sleep.\n\n
+        - Incorporate Regular Exercise: Engaging in regular physical activity can positively influence sleep quality and duration.\n\n
+        In Conclusion\n\n
+        The quality of your sleep is intricately tied to your cardiovascular health. Recognizing that poor sleep quality is a significant risk factor for heart disease, it is imperative to prioritize healthy sleep habits. By following the provided tips for enhancing sleep quality, you can reduce your risk of heart disease and pave the way for improved overall well-being.</string>
+    <string name="article_title_3">10 Tips for a Heart-Healthy Lifestyle: Small Changes, Big Impact</string>
+    <string name="article_content_3">Maintaining a heart-healthy lifestyle is vital for preventing heart disease, a leading cause of mortality in the United States. Even small changes to your daily routine can have a significant impact on your heart health. In this article, we present ten tips for adopting a heart-healthy lifestyle:\n\n
+        1. Add an Extra Fruit or Vegetable: Incorporate one additional fruit or vegetable into your daily diet. These foods are rich in vitamins, minerals, and fiber, which can help lower blood pressure and reduce the risk of heart disease.\n\n
+        2. Choose Whole Grains: Opt for whole grains like brown rice and whole wheat bread. They are an excellent source of fiber, which can help lower cholesterol levels and reduce the risk of heart disease.\n\n
+        3. Include Nuts in Your Diet: Walnuts, peanuts, almonds, and other nuts are known to benefit your heart and serve as a healthy alternative to sweet snacks.\n\n
+        4. Take a 10-Minute Walk: Even a brief walk can contribute to improved heart health and a reduced risk of heart disease.\n\n
+        5. Laugh More: Laughter can be beneficial for your heart, so spend quality time with friends and family and savor moments of laughter.\n\n
+        6. Manage Stress: Stress can elevate the risk of heart disease. Explore stress-reduction techniques like meditation and yoga to enhance your heart health.\n\n
+        7. Prioritize Quality Sleep: Ensure you get sufficient, high-quality sleep each night, as poor sleep quality is a risk factor for heart disease.\n\n
+        8. Quit Smoking: Smoking is a major risk factor for heart disease. Quitting smoking is one of the most significant steps you can take for your heart health.\n\n
+        9. Maintain Oral Hygiene: Good oral hygiene is associated with a reduced risk of heart disease. Be diligent about regular brushing and flossing.\n\n
+        10. Stay Hydrated: Drinking an ample amount of water is essential for heart health as it reduces the risk of dehydration and high blood pressure.\n\n
+        In Conclusion\n\n
+        Small changes to your daily routine can yield substantial benefits for your heart health. By implementing these ten tips for a heart-healthy lifestyle, you can reduce your risk of heart disease and enhance your overall health and well-being.</string>
+    <string name="article_title_4">Living Heart-Smart: Lifestyle Choices That Make a Difference</string>
+    <string name="article_content_4">Living a heart-smart lifestyle is crucial for maintaining good cardiovascular health. Healthy lifestyle choices can significantly reduce the risk of heart disease, a leading global cause of mortality. In this article, we provide you with tips for living a heart-smart lifestyle:
+        Healthy Eating Habits\n\n
+        1. Eat a Balanced Diet: A balanced diet consists of ample fruits, vegetables, whole grains, lean protein, and healthy fats.\n\n
+        2. Limit Saturated and Trans Fats: Saturated and trans fats can elevate cholesterol levels and raise the risk of heart disease. Minimize your consumption of foods high in these fats, such as fried foods, processed snacks, and fatty meats.\n\n
+        3. Reduce Sodium Intake: Excessive sodium can increase blood pressure and the risk of heart disease. Cut back on processed foods, canned soups, and salty snacks.\n\n
+        4. Avoid Added Sugars: Excessive added sugar can contribute to obesity, diabetes, and heart disease. Steer clear of sugary drinks, candy, and baked goods.\n\n
+        Regular Exercise\n\n
+        5. Get Regular Exercise: Engage in regular physical activity to enhance heart health and lower the risk of heart disease. Aim for at least 30 minutes of moderate-intensity exercise most days of the week.\n\n
+        6. Incorporate Strength Training: Strength training helps build muscle and improves heart health.\n\n
+        7. Stay Active Throughout the Day: Integrate physical activity into your daily routine, such as opting for stairs over the elevator or taking a walk during your lunch break.\n\n
+        Other Healthy Habits\n\n
+        8. Quit Smoking: Smoking is a significant risk factor for heart disease. Quitting smoking is one of the most impactful steps you can take for your heart health.\n\n
+        9. Manage Stress: Stress can raise the risk of heart disease. Implement stress management techniques into your life, such as meditation or yoga.\n\n
+        10. Get Enough Sleep: Poor sleep quality is a risk factor for heart disease. Ensure you get adequate sleep each night.\n\n
+        In Conclusion\n\n
+        A heart-smart lifestyle involves making healthy choices in your diet, exercise routine, and daily habits. By adhering to these tips, you can diminish your risk of heart disease and enhance your overall health and well-being.</string>
+
+    <string name="title_privacy">BeatSyncX Privacy Policy</string>
+    <string name="btn_privacy">Access more information</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_agreement">IMPORTANT DISCLAIMER:\n\n
+        Please Read Carefully\n\n
+        This application is not a replacement for professional medical software. It cannot measure blood pressure. Its sole functionality is to provide blood pressure recording and tracking features.\n\n
+        For precise and accurate medical advice, CONSULT A HEALTHCARE PROFESSIONAL. Your health and well-being are of paramount importance.\n\n
+        BeatSyncX is a mobile application designed to record and track human heart rate data, provide heart rate health assessments, offer related advice, and provide information about heart rate health. We are committed to safeguarding your personal information and privacy. This Privacy Policy outlines our practices concerning the collection, use, and protection of your data. Please read this Privacy Policy thoroughly before using the application.\n\n
+        1. Data Collection and Use\n
+        1.1 Heart Rate Data Collection: BeatSyncX collects and securely stores the heart rate data you input. This data is used to evaluate your heart rate health and provide you with pertinent advice.\n\n
+        2. Data Security\n
+        2.1 Data Protection: We have implemented rigorous technical and organizational measures to ensure the security of your data. We are committed to protecting your data from unauthorized access, use, or disclosure.\n\n
+        2.2 Data Storage: Your data will be stored on secure servers, with access restricted to authorized personnel only.\n\n
+        3. Health Advice\n
+        3.1 Advice Provision: BeatSyncX generates health assessments based on your heart rate data and offers relevant advice. Please note that these recommendations are for reference purposes only and should not replace professional medical advice.\n\n
+        4. Information Sharing\n
+        4.1 Third Parties: We will not sell, trade, or disclose your personal information to third parties without your explicit consent or unless required by law.\n\n
+        5. Privacy Rights\n
+        5.1 Access and Correction: You have the right to access and correct your personal information at any time. If you have privacy-related questions or requests, please contact us using the provided contact details.\n\n
+        6. Privacy Policy Updates\n
+        6.1 Policy Updates: BeatSyncX reserves the right to update this Privacy Policy at any time. Any updates will be posted within the application. We recommend checking this policy regularly for the latest information.\n\n
+        Conclusion\n\n
+        By using the BeatSyncX application, you agree to abide by this Privacy Policy. If you disagree with any part of this policy, please discontinue using the application.\n\n
+        For any questions or further information, please contact us.</string>
+</resources>
